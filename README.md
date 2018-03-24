@@ -36,7 +36,7 @@ The following are the measurements that I made for this comparison.
   | 500K        | 140   | 926         |
   | 1M          | 145   | 4598        |  
  
-![Plot](https://github.com/s-ravichandran/spark_vs_scikit/raw/master/Extract.png)
+![Plot](https://github.com/s-ravichandran/spark_vs_scikit/blob/master/Extract.png)
  
 ### Fitting time (in seconds)
  
@@ -47,4 +47,4 @@ The following are the measurements that I made for this comparison.
  | 500K        | 80   | 40         |
  | 1M          | 154   | 111       |
  
-![Plot](https://github.com/s-ravichandran/spark_vs_scikit/raw/master/Fit_times.png)
+![Plot](https://github.com/s-ravichandran/spark_vs_scikit/blob/master/Fit_times.png)
